@@ -6,8 +6,8 @@
 
 #include <WiFi.h>
 
-const char* ssid = "Jojo";
-const char* password = "MauTauAja";
+const char* ssid = "Mantul-L1";         //"Jojo";
+const char* password = "ManToel$578$";  //"MauTauAja";
 
 
 void setup() {

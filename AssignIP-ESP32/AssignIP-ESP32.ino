@@ -1,12 +1,12 @@
 
 #include <WiFi.h>
 
-const char* ssid = "Jojo";
-const char* password = "MauTauAja";
+const char* ssid = "Mantul-L1";         //"Jojo";
+const char* password = "ManToel$578$";  //"MauTauAja";
 
 // Configure IP Address of the local access point
-IPAddress localIP(192, 168, 1, 20);
-IPAddress gateway(192, 168, 1, 1);
+IPAddress localIP(192, 168, 5, 150);
+IPAddress gateway(192, 168, 5, 1);
 IPAddress subnet(255, 255, 255, 0);
 
 
